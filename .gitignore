@@ -1,0 +1,8 @@
+.DS_Store
+/src/app/data/*
+.ipynb_checkpoints
+/src/app/__pycache__
+/src/app/csv_results/*
+/src/app/logs/*
+/src/app/sbatch_logs/*
+/src/app/tensorboard_logs/*
